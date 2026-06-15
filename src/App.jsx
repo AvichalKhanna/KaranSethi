@@ -2,7 +2,7 @@ import { useState, useRef, useEffect } from "react";
 import supabase from './supabase.js'  // default import, no curly braces  // add this at the top of App.jsx
 import "./App.css";
 
-const PORTRAIT = "/Karan.png"
+const PORTRAIT = "/karan.png"
 const NAV_LINKS = ["Work", "About", "Process", "Contact"];
 
 const PROJECTS = [
