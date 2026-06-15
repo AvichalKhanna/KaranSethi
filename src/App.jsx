@@ -1,5 +1,5 @@
 import { useState, useRef, useEffect } from "react";
-import PORTRAIT from "./assets/Karan.png"
+import PORTRAIT from "./Karan.png"
 import supabase from './supabase.js'  // default import, no curly braces  // add this at the top of App.jsx
 import "./App.css";
 
